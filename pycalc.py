@@ -1,0 +1,8 @@
+print("Enter 2 nos")
+a = int(input("a = "))
+b = int(input("b = "))
+print("Addition = ", a+b)
+print("Subtraction = ", a-b)
+print("Multiplication = ", a*b)
+print("Division = ", round(a/b, 3))
+print("Modulous = ", a%b)
